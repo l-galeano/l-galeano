@@ -1,4 +1,4 @@
-## Hi there 👋
+# College student attending University of Buenos Aires.
 
 <!--
 **l-galeano/l-galeano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
